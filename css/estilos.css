@@ -34,3 +34,9 @@ body {
 .container p {
     padding: 0 1em;
 }
+#footer {
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: .5em;
+}
